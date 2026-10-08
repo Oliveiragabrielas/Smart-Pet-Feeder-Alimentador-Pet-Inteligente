@@ -40,9 +40,7 @@ O sistema permite liberar ração por meio de um botão, utilizando um servo mot
 
 <br>
 
-<p align="center">
-  <img src="./img/imagem (1).png" width="800">
-</p>
+
 
 ## 🏗️ Arquitetura
 
