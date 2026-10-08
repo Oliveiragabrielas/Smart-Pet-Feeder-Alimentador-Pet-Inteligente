@@ -1,23 +1,23 @@
-## 👥 Integrantes
+
+##  Integrantes
 
 * Arthur Massarão Marcomini
 * Gabriela de Oliveira
 * Maria Eduarda Rocha Castro
 * Mateus Aristóteles Fernandes
 
-**Curso:** Técnico em Desenvolvimento de Sistemas
-**Instituição:** SENAI A. Jacob Lafer
+**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Instituição:** SENAI A. Jacob Lafer  
 **Ano:** 2026
 
-<br>
 
-# 🐾 Smart Pet Feeder
+#  Smart Pet Feeder
 
 Alimentador pet automatizado e inteligente desenvolvido com **ESP32** e conceitos de **Internet das Coisas (IoT)**.
 
 O sistema permite liberar ração por meio de um botão, utilizando um servo motor para controlar a comporta. O projeto também possui LCD 16x2, LED RGB, conexão Wi-Fi e registro das alimentações no Firebase.
 
-## ⚙️ Funcionamento
+##  Funcionamento
 
 - 🔘 Botão → inicia a alimentação
 - ⚙️ Servo Motor → abre e fecha a comporta
@@ -26,7 +26,7 @@ O sistema permite liberar ração por meio de um botão, utilizando um servo mot
 - 📡 ESP32 + Wi-Fi → realiza a comunicação
 - ☁️ Firebase → armazena os registros
 
-## 🧩 Tecnologias
+##  Tecnologias
 
 - ESP32
 - C/C++
@@ -40,9 +40,7 @@ O sistema permite liberar ração por meio de um botão, utilizando um servo mot
 
 <br>
 
-
-
-## 🏗️ Arquitetura
+##  Arquitetura
 
 ```text
 [Botão]
@@ -56,7 +54,7 @@ O sistema permite liberar ração por meio de um botão, utilizando um servo mot
 [Firebase]
 ````
 
-## 💰 Viabilidade
+##  Viabilidade
 
 | Componente  | Qtd. |         Valor |
 | ----------- | ---: | ------------: |
@@ -71,5 +69,7 @@ O sistema permite liberar ração por meio de um botão, utilizando um servo mot
 
 [Visualizar circuito no Wokwi](https://wokwi.com/projects/476797194471556097)
 
-
+<p align="left">
+  <img src="./circuito.png" width="500">
+</p>
 ```
